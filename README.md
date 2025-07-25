@@ -89,4 +89,5 @@ MIT
 ## Credits
 
 - [Flutter](https://flutter.dev/)
--
+- [Firebase](https://firebase.google.com/)
+- [Google Fonts](https://fonts.google.com/)
